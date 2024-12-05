@@ -83,7 +83,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rksingh3673.rksingh3673&left_color=coral&left_text=Amigo"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rksingh3673.rksingh3673&left_color=coral&left_text=Visitors"  />
 </div>
 
 ###
