@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/ba/f8/83/baf8836fdb8d785fab8d77c22f43d7f7.gif"  />
+  <img height="160" src="https://i.pinimg.com/originals/ba/f8/83/baf8836fdb8d785fab8d77c22f43d7f7.gif"  />
 </div>
 
 ###
@@ -9,11 +9,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rahul-kumar-228575206/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8b63f539-e1d8-45f0-96c5-392cda4794fe" width="70" height="70" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/rahul-kumar-228575206" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:rksingh3673@gmail.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/99dffff9-c657-45eb-98cd-3e9661c2779a" width="70" height="70" alt="gmail logo"  />
+  <a href="rksingh3673@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m working on my personal portfolio website.<br>- 📚 I'm currently learning Front-end Web Development.<br>- ⚡ Best day December 18, 2022</p>
+<p align="center">- 🔭 I’m working my personal portfolio website.<br>- 📚 I'm currently learning Front-end Web Development.<br>- ⚡ Best day December 18, 2022</p>
 
 ###
 
