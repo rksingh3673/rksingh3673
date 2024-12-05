@@ -9,11 +9,11 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/rahul-kumar-228575206" target="_top">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/rahul-kumar-228575206" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8b63f539-e1d8-45f0-96c5-392cda4794fe" width="70" height="70" alt="linkedin logo"  />
   </a>
-  <a href="rksingh3673@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:rksingh3673@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/99dffff9-c657-45eb-98cd-3e9661c2779a" width="70" height="70" alt="gmail logo"  />
   </a>
 </div>
 
