@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/rahul-kumar-228575206" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-kumar-228575206/" target="_blank">
     <img src="https://github.com/user-attachments/assets/8b63f539-e1d8-45f0-96c5-392cda4794fe" width="70" height="70" alt="linkedin logo"  />
   </a>
   <a href="mailto:rksingh3673@gmail.com" target="_blank">
