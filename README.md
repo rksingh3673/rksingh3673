@@ -19,11 +19,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working my personal portfolio website.<br>- 📚 I'm currently learning Front-end Web Development.<br>- ⚡ Best day December 18, 2022</p>
+<p align="center">- 🔭 I’m working my personal portfolio website.<br>- 📚 I'm currently learning Front-end Web Development.<br>- ⚡ Best day December 18, 2022</p>
 
 ###
 
