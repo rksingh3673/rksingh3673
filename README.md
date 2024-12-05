@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m working my personal portfolio website.<br>- 📚 I'm currently learning Front-end Web Development.<br>- ⚡ Best day December 18, 2022</p>
+<p align="center">- 🔭 I’m working on my personal portfolio website.<br>- 📚 I'm currently learning Front-end Web Development.<br>- ⚡ Best day December 18, 2022</p>
 
 ###
 
